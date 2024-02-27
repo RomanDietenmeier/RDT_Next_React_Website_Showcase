@@ -1,0 +1,86 @@
+{
+  "Navbar": {
+    "Home": "Home",
+    "About": "About",
+    "Services": "Services",
+    "Team": "Appreciation",
+    "Contact": "Contact",
+    "MobileText": "Individual Web & AI solutions. Let's talk."
+  },
+  "Home": {
+    "Text1": "Consulting and Solutions",
+    "Buttontext": "Contact",
+    "Casestudy": "Case Study"
+  },
+  "About": {
+    "h1": "Software Engineering, Web-Development, Data Analysis, Daten Engineering & AI is what I studied.",
+    "p": "Software is my passion. Please bring your ideas and problems to me so that we will create the suitable solution or product."
+  },
+  "Services": {
+    "h1": "Possible Projects and Solutions",
+    "p": "Here I explain my services to you and advise you on how we can help you solve your problems.",
+    "Machine Learning": {
+      "h3": "Machine Learning",
+      "p": "Build and deploy machine learning models to solve your business problems."
+    },
+    "Social Media Analytics": {
+      "h3": "Web Development",
+      "p": "Website, Apps & Games in React or Vanilla JS."
+    },
+    "Image Recognition": {
+      "h3": "Software Engineering",
+      "p": "Drafts and Implementations of Algorithms and complex Software Systems."
+    },
+    "AI Chatbot": {
+      "h3": "AI Chatbots",
+      "p": "Chatbots accustomed to your needs."
+    }
+  },
+  "Team": {
+    "h1": "This website is a collaboration of:"
+  },
+  "Contact": {
+    "h1": "Contact me and let us create projects together.",
+    "FormText": "Contact",
+    "FormName": "Fullname",
+    "FormEmail": "E-Mail-Adress",
+    "FormMessage": "Your message",
+    "FormSubmit": "Send message",
+    "Adress": "Adress",
+    "Phone": "Phone",
+    "Email": "E-Mail-Adress"
+  },
+  "Components": {
+    "GoUp": "go up"
+  },
+  "Footer": {
+    "copyright": "Copyright ©2026 All rights reserved",
+    "privacy policy": "Privacy Policy",
+    "imprint": "Imprint"
+  },
+  "Privacy Policy": {
+    "title": "Privacy Policy",
+    "responsible person heading": "Data Controller:",
+    "responsible person": "Roman Dietenmeier",
+    "address street": "Boksberg 16",
+    "address city": "24149 Kiel, Germany",
+    "phone": "+49 (0) 152 254 079 40",
+    "email": "contact@romandietenmeiertechnik.de",
+    "kind of data heading": "Categories of Processed Data:",
+    "kind of data": "Contact information (e.g., email, telephone numbers).",
+    "purpose heading": "Purpose of Processing:",
+    "purpose": "To respond to contact inquiries and communicate with users.",
+    "usage of data heading": "Use of Your Data:",
+    "usage of data": "We process personal data that you provide to us voluntarily, for example, when you contact us via email or phone. Your data will only be used to process and respond to your inquiry. This is done based on your consent, in accordance with Article 6(1)(a) of the GDPR, or on the basis of taking steps at your request prior to entering into a contract in accordance with Article 6(1)(b) of the GDPR, should your inquiry be related to a contractual matter.",
+    "storage duration heading": "Data Retention:",
+    "storage duration": "The data you provide to us for the purpose of your inquiry will be retained until you request its deletion, revoke your consent to its storage, or the purpose for the data storage no longer pertains (e.g., after your request has been fulfilled). Mandatory statutory provisions - especially retention periods - remain unaffected.",
+    "right of the affected person heading": "Rights of the Data Subject:",
+    "right of the affected person p1": "You have the right to request confirmation as to whether or not personal data concerning you is being processed, access to the said data, as well as further information and a copy of the data in accordance with Article 15 of the GDPR.",
+    "right of the affected person p2": "In accordance with Article 16 of the GDPR, you have the right to demand the completion or correction of inaccurate personal data concerning you.",
+    "right of the affected person p3": "You have the right, under Article 17 of the GDPR, to demand that personal data concerning you be deleted immediately, or alternatively, under Article 18 of the GDPR, to demand a restriction on the processing of your data.",
+    "right of the affected person p4": "You have the right to receive the personal data concerning you, which you have provided to us, in accordance with Article 20 of the GDPR and to request its transmission to other controllers.",
+    "right of the affected person p5": "Furthermore, you are entitled to file a complaint with the competent supervisory authority in accordance with Article 77 of the GDPR.",
+    "right of revocation heading": "Right to Withdraw Consent:",
+    "right of revocation": "You have the right to withdraw your consent at any time in accordance with Article 7(3) of the GDPR with future effect."
+  }
+}

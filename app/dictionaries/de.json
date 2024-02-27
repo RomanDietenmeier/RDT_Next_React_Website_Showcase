@@ -1,0 +1,86 @@
+{
+  "Navbar": {
+    "Home": "Home",
+    "About": "Über mich",
+    "Services": "Services",
+    "Team": "Danksagung",
+    "Contact": "Kontakt",
+    "MobileText": "Individuelle Web & KI-Lösungen für Sie. Lassen Sie uns sprechen."
+  },
+  "Home": {
+    "Text1": "Beratung und Lösungsentwicklung",
+    "Buttontext": "Kontakt",
+    "Casestudy": "Kontakt"
+  },
+  "About": {
+    "h1": "Software Engineering, Web-Entwicklung, Daten Analyse, Daten Aufbereitung & KI habe ich studiert.",
+    "p": "Software ist meine Leidenschaft. Gerne bringen Sie ihre Probleme und Ideen zu mir und gemeinsam schaffen wir Lösungen und Produkte."
+  },
+  "Services": {
+    "h1": "Dienstleistungen",
+    "p": "Ich erkläre Ihnen gerne Dienstleistungen und berate Sie, wie Sie Ihre Probleme bewältigen können.",
+    "Machine Learning": {
+      "h3": "Machine Learning",
+      "p": "Implementieren Sie maschinelles Lernen, um Ihre Geschäftsprobleme zu lösen."
+    },
+    "Social Media Analytics": {
+      "h3": "Web-Entwicklung",
+      "p": "Website, Apps & Spiele gerne in React oder Vanilla JS."
+    },
+    "Image Recognition": {
+      "h3": "Software Engineering",
+      "p": "Entwerfung und Implementierung von Algorithmen und komplexen Software-Systemen."
+    },
+    "AI Chatbot": {
+      "h3": "KI-Chatbots",
+      "p": "Chatbots können angepasst werden, um Ihren Kundenservice zu automatisieren."
+    }
+  },
+  "Team": {
+    "h1": "Diese Website ist eine Kollaboration von:"
+  },
+  "Contact": {
+    "h1": "Kontaktieren Sie mich und lassen Sie uns gemeinsam Projekte erstellen.",
+    "FormText": "Kontakt",
+    "FormName": "Vollständiger Name",
+    "FormEmail": "E-Mail-Adresse",
+    "FormMessage": "Ihre Nachricht",
+    "FormSubmit": "Nachricht senden",
+    "Adress": "Adresse",
+    "Phone": "Handynummer",
+    "Email": "E-Mail-Adresse"
+  },
+  "Components": {
+    "GoUp": "nach oben"
+  },
+  "Footer": {
+    "copyright": "©2026 Alle Rechte vorbehalten.",
+    "privacy policy": "Datenschutzerklärung",
+    "imprint": "Impressum"
+  },
+  "Privacy Policy": {
+    "title": "Datenschutzerklärung",
+    "responsible person heading": "Verantwortlich für die Datenverarbeitung ist:",
+    "responsible person": "Roman Dietenmeier",
+    "address street": "Boksberg 16",
+    "address city": "24149 Kiel, Deutschland",
+    "phone": "+49 (0) 152 254 079 40",
+    "email": "contact@romandietenmeiertechnik.de",
+    "kind of data heading": "Arten der verarbeiteten Daten:",
+    "kind of data": "Kontaktdaten (z.B., E-Mail, Telefonnummern).",
+    "purpose heading": "Zweck der Verarbeitung:",
+    "purpose": "Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.",
+    "usage of data heading": "Verwendung Ihrer Daten:",
+    "usage of data": "Ihre personenbezogenen Daten werden bei uns verarbeitet, wenn Sie uns diese von sich aus zur Verfügung stellen, beispielsweise wenn Sie uns per E-Mail oder Telefon kontaktieren. Ihre Daten werden ausschließlich zur Bearbeitung und Beantwortung Ihrer Anfrage verwendet. Dies erfolgt auf Basis Ihrer freiwillig erteilten Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO bzw. auf Basis der Erfüllung vorvertraglicher Maßnahmen bzw. Vertrags gemäß Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage damit in Verbindung steht.",
+    "storage duration heading": "Speicherdauer:",
+    "storage duration": "Die von Ihnen im Rahmen von Kontaktanfragen übermittelten Daten bleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.",
+    "right of the affected person heading": "Rechte der betroffenen Person:",
+    "right of the affected person p1": "Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend Art. 15 DSGVO.",
+    "right of the affected person p2": "Entsprechend Art. 16 DSGVO können Sie die Berichtigung oder die Vervollständigung Sie betreffender Daten verlangen.",
+    "right of the affected person p3": "Gemäß Art. 17 DSGVO haben Sie das Recht, die Löschung der Sie betreffenden Daten zu verlangen oder gemäß Art. 18 DSGVO eine Einschränkung der Verarbeitung der Daten zu verlangen.",
+    "right of the affected person p4": "Sie haben das Recht zu verlangen, dass die Sie betreffenden Daten, die Sie uns bereitgestellt haben, nach Art. 20 DSGVO zu erhalten und deren Übermittlung an andere Verantwortliche zu fordern.",
+    "right of the affected person p5": "Des Weiteren steht Ihnen gemäß Art. 77 DSGVO ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.",
+    "right of revocation heading": "Widerrufsrecht:",
+    "right of revocation": "Sie haben das Recht, erteilte Einwilligungen gemäß Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen."
+  }
+}
