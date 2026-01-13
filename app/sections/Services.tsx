@@ -47,7 +47,7 @@ export function Services() {
               <ServiceImage src="./Software_Engineering.jpg" />
               <h3>{dictionary.Services["Image Recognition"].h3}</h3>
               <p>{dictionary.Services["Image Recognition"].p}</p>
-              <CardContactButton href="./case-studies/image-recognition">
+              <CardContactButton href={NavbarRouteLinks.Contact}>
                 {dictionary.Home.Casestudy}
               </CardContactButton>
             </ServiceWrapper>
@@ -56,7 +56,7 @@ export function Services() {
               <ServiceImage src="./AI KiI.jpg" />
               <h3>{dictionary.Services["AI Chatbot"].h3}</h3>
               <p>{dictionary.Services["AI Chatbot"].p}</p>
-              <CardContactButton href="./case-studies/ai-chatbot">
+              <CardContactButton href={NavbarRouteLinks.Contact}>
                 {dictionary.Home.Casestudy}
               </CardContactButton>
             </ServiceWrapper>
